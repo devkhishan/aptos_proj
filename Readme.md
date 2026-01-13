@@ -134,4 +134,4 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-Built with ❤️ during the Aptos Buildathon
+Built with ❤️ during the Aptos Buildathon by Devkhishan S
